@@ -1,0 +1,5 @@
+os
+threading
+asyncio
+telegram
+python-telegram-bot
